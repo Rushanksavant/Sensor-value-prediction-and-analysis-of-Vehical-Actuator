@@ -1,1 +1,1 @@
-# Sensor-value-prediction-and-analysis-of-Vehical-Actuator
+# Prediction and Analysis of Permanent Magnet Synchronous Motor tmperature
